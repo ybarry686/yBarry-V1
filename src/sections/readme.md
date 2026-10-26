@@ -1,0 +1,1 @@
+The major homepage sections: Hero, About, Experience, Projects, Personal.
